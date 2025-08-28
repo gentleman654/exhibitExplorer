@@ -1,16 +1,3 @@
-/******************************************************************************
- ***
- * WEB422 – Assignment 5
- *
- * I declare that this assignment is my own work in accordance with Seneca's
- * Academic Integrity Policy:
- *
- * https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html
- *
- * Name: __Manas Gandotra______ Student ID: ___146439237_______ Date: ___7/25/2025
- *
- ******************************************************************************
- **/
 
 import { Card } from 'react-bootstrap';
 
@@ -30,13 +17,13 @@ export default function Home() {
 
       <Card.Body>
         <p>
-          The Metropolitan Museum of Art of New York City, colloquially "the
-          Met", is the largest art museum in the Americas and the fourth-largest
+          The Metropolitan Museum of Art of New York City, colloquially &quot;the
+          Met&quot;, is the largest art museum in the Americas and the fourth-largest
           in the world. Its permanent collection contains over two million
           works, divided among 17 curatorial departments. The main building at
           1000 Fifth Avenue, along the Museum Mile on the eastern edge of
-          Central Park on Manhattan's Upper East Side, is by area one of the
-          world's largest art museums.
+          Central Park on Manhattan&apos;s Upper East Side, is by area one of the
+          world&apos;s largest art museums.
         </p>
         <p>
           Learn more on{' '}
