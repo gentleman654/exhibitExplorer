@@ -94,4 +94,4 @@ Feel free to fork it, break it, fix it, and extend it ✨. That’s the best way
 
 Test it on https://exhibit-explorer.vercel.app/
 
-##Credits: Manas Gandotra
+## Credits: Manas Gandotra
