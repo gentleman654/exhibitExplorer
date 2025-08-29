@@ -91,3 +91,7 @@ This isn’t meant to be a perfect production app — it’s a **learning playgr
 - Understanding the deployment pipeline.  
 
 Feel free to fork it, break it, fix it, and extend it ✨. That’s the best way to learn.  
+
+Test it on https://exhibit-explorer.vercel.app/
+
+##Credits: Manas Gandotra
